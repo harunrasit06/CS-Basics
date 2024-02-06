@@ -8,7 +8,7 @@ namespace HelloWorld
 {
     internal class Aufgabe4
     {
-        static void Main(string[] args)
+        static void Main4(string[] args)
         {
             Console.WriteLine("Please Write Speed Limit for Cars");
             int speedLimit = int.Parse(Console.ReadLine());

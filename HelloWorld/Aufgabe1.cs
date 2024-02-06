@@ -8,7 +8,7 @@ namespace HelloWorld
 {
     class Aufgabe1
     {
-        static void Main3(string[] args)
+        static void Main1(string[] args)
         {
             Console.WriteLine("Write a number: \n");
             var userInput = int.Parse(Console.ReadLine());

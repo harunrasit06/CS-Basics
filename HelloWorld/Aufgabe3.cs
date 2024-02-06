@@ -8,7 +8,7 @@ namespace HelloWorld
 {
     class Aufgabe3
     {
-        static void Main5(string[] args)
+        static void Main3(string[] args)
         {
             Console.WriteLine("Write width :");
             int witdh = int.Parse(Console.ReadLine());
