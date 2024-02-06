@@ -4,12 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HelloWorld
+namespace HelloWorld.Math
 {
-    class Program
+    public class Calculator
     {
-        static void Main(string[] args)
-        {
-        }
+        public int Add(int a, int b) {
+            return a + b;   
+        } 
     }
 }
