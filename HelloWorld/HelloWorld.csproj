@@ -50,6 +50,12 @@
     <Compile Include="Class2.cs" />
     <Compile Include="Class3.cs" />
     <Compile Include="Class4.cs" />
+    <Compile Include="Class5.cs" />
+    <Compile Include="Exercise1.cs" />
+    <Compile Include="Exercise2.cs" />
+    <Compile Include="Exercise3.cs" />
+    <Compile Include="Exercise4.cs" />
+    <Compile Include="Exercise5.cs" />
     <Compile Include="Math\Calculator.cs" />
     <Compile Include="Person.cs" />
     <Compile Include="Class1.cs" />

@@ -8,7 +8,7 @@ namespace HelloWorld
 {
     internal class Class4
     {
-        static void Main(string[] args)
+        static void Main44(string[] args)
         {
             for (int i = 0; i <= 10; i++)
             {
