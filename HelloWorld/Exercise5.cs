@@ -8,7 +8,7 @@ namespace HelloWorld
 {
     internal class Exercise5
     {
-        static void Main(string[] args)
+        static void Main5(string[] args)
         {
             Console.WriteLine("Write a series of the numbers(separated by comma) : ");
             var userInputs = Console.ReadLine();

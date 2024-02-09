@@ -51,8 +51,16 @@
     <Compile Include="Class3.cs" />
     <Compile Include="Class4.cs" />
     <Compile Include="Class5.cs" />
+    <Compile Include="Class6.cs" />
+    <Compile Include="Class7.cs" />
+    <Compile Include="Class8.cs" />
     <Compile Include="Exercise1.cs" />
     <Compile Include="Exercise2.cs" />
+    <Compile Include="Exercise2_1.cs" />
+    <Compile Include="Exercise2_2.cs" />
+    <Compile Include="Exercise2_3.cs" />
+    <Compile Include="Exercise2_4.cs" />
+    <Compile Include="Exercise2_5.cs" />
     <Compile Include="Exercise3.cs" />
     <Compile Include="Exercise4.cs" />
     <Compile Include="Exercise5.cs" />
