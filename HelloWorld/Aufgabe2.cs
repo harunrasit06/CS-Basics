@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -8,6 +9,9 @@ namespace HelloWorld
 {
     class Aufgabe2
     {
+        /*2- Write a program which takes two numbers 
+         * from the console and displays the maximum of the two.
+         */
         static void Main2(string[] args)
         {
             Console.WriteLine("Write first number: ");

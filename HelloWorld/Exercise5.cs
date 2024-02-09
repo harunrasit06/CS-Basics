@@ -8,6 +8,11 @@ namespace HelloWorld
 {
     internal class Exercise5
     {
+        /*5- Write a program and ask the user to enter a series of 
+         * numbers separated by comma. Find the maximum of the numbers 
+         * and display it on the console. For example, if the user 
+         * enters “5, 3, 8, 1, 4", the program should display 8.
+         */
         static void Main5(string[] args)
         {
             Console.WriteLine("Write a series of the numbers(separated by comma) : ");
@@ -35,17 +40,17 @@ namespace HelloWorld
                 c++;
                                                           
             }*/
-            
 
-            /*for(var i = 0;i < userArray.Length; i++)    //Kontrolle
-            {
-                Console.WriteLine(userArray[i]);
-            }*/
 
-            //var max2 = userArray.Max();
-            //Console.WriteLine("Max is : " + Convert.ToChar(max2));
-            
-            
-        }
+        /*for(var i = 0;i < userArray.Length; i++)    //Kontrolle
+        {
+            Console.WriteLine(userArray[i]);
+        }*/
+
+        //var max2 = userArray.Max();
+        //Console.WriteLine("Max is : " + Convert.ToChar(max2));
+
+
     }
+}
 }

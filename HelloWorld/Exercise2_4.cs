@@ -7,7 +7,11 @@ using System.Threading.Tasks;
 namespace HelloWorld
 {
     internal class Exercise2_4
-        { 
+        {
+        /*4- Write a program and ask the user to continuously enter a number 
+         * or type "Quit" to exit. The list of numbers may include duplicates. 
+         * Display the unique numbers that the user has entered.
+         */
         static void Main4(string[] args)
         {
             var numberList = new List<string> { };

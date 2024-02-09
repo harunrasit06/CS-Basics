@@ -8,6 +8,10 @@ namespace HelloWorld
 {
     internal class Exercise2_2
     {
+        /*2- Write a program and ask the user to enter their name. 
+         * Use an array to reverse the name and then store 
+         * the result in a new string. Display the reversed name on the console.
+         */
         static void Main2(string[] args)
         {
             Console.WriteLine("Enter your name : ");

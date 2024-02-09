@@ -8,6 +8,9 @@ namespace HelloWorld
 {
     class Aufgabe3
     {
+        /*3- Write a program and ask the user to enter the width and height of an image. 
+         * Then tell if the image is landscape or portrait.
+         */
         static void Main3(string[] args)
         {
             Console.WriteLine("Write width :");
