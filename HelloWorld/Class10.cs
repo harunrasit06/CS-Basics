@@ -11,7 +11,7 @@ namespace HelloWorld
 {
     class Class10
     {
-        static void Main(string[] args)
+        static void Main10(string[] args)
         {
             //LoremIpsumGenarator loremText = new LoremIpsumGenarator();
             //var sentenceLorem = loremText.LoremIpsum(20, 30, 5, 10, 1);
