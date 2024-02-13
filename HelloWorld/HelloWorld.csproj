@@ -49,6 +49,9 @@
     <Compile Include="Aufgabe4.cs" />
     <Compile Include="Class10.cs" />
     <Compile Include="Class11.cs" />
+    <Compile Include="Class12.cs" />
+    <Compile Include="Class13.cs" />
+    <Compile Include="Class14.cs" />
     <Compile Include="Class2.cs" />
     <Compile Include="Class3.cs" />
     <Compile Include="Class4.cs" />
@@ -71,6 +74,8 @@
     <Compile Include="Exercise3_4.cs" />
     <Compile Include="Exercise3_5.cs" />
     <Compile Include="Exercise4.cs" />
+    <Compile Include="Exercise4_1.cs" />
+    <Compile Include="Exercise4_2.cs" />
     <Compile Include="Exercise5.cs" />
     <Compile Include="LoremIpsumGenarator.cs" />
     <Compile Include="Math\Calculator.cs" />
